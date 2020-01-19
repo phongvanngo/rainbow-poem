@@ -1,0 +1,9 @@
+orange 
+yellow 
+white 
+blue
+red
+purple
+green
+
+this is color
