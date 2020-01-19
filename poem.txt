@@ -6,4 +6,6 @@ red
 purple
 light green
 
+pink
+
 this is color
