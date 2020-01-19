@@ -9,6 +9,11 @@ light red
 light yellow
 white pink
 
+window
+chair
+pencil case
+pen 
+
 pink
 
 this is color
