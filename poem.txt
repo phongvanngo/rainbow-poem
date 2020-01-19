@@ -4,6 +4,6 @@ white
 blue
 red
 purple
-green
+light green
 
 this is color
